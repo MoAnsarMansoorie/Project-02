@@ -1,6 +1,10 @@
 # Project-02 Html and Css
 
-[Project link](C:\Users\acer\Desktop\mern\live-class-project-2)
+![badge](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
+[Link of Deployed Live Project](https://trendingpage2025.netlify.app/)
+
+![image](./view.png)
 
 # What I learned to make this project
 
